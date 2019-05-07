@@ -1,0 +1,40 @@
+Package: mtbls297
+Version: 0.99.1
+Date: 2019-05-07
+Encoding: UTF-8
+Title: MetaboLights MTBLS297: Multiomics of tomato glandular trichomes 
+        reveals distinct features of central carbon metabolism 
+        supporting high productivity of specialized metabolites. Balcke et al. (2017)
+Author: Steffen Neumann <sneumann@ipb-halle.de>
+Maintainer: Steffen Neumann <sneumann@ipb-halle.de>
+Depends: R (>= 2.10)
+Suggests: xcms (>= 3.0.0), knitr
+VignetteBuilder: knitr
+ZipData: no
+Description: Glandular trichomes are metabolic cell factories 
+        with the capacity to produce large quantities of secondary metabolites. 
+        Little is known about the connection between central carbon metabolism 
+        and metabolic productivity for secondary metabolites in glandular trichomes. 
+        To address this gap in our knowledge, we performed comparative metabolomics, 
+        transcriptomics, proteomics and 13C-labeling of type VI glandular trichomes 
+        and leaves from a cultivated (Solanum lycopersicum LA4024) 
+        and a wild (Solanum habrochaites LA1777) tomato accession. Specific features 
+        of glandular trichomes that drive the formation of secondary metabolites 
+        could be identified. Tomato type VI trichomes are photosynthetic but acquire 
+        their carbon essentially from leaf sucrose. The energy and reducing power 
+        from photosynthesis are used to support the biosynthesis of secondary metabolites,
+        while the comparatively reduced Calvin-Benson-Bassham cycle activity 
+        may be involved in recycling metabolic CO2. Glandular trichomes cope 
+        with oxidative stress by producing high levels of polyunsaturated fatty acids, 
+        oxylipins, and glutathione. Finally, distinct mechanisms are present 
+        in glandular trichomes to increase the supply of precursors 
+        for the isoprenoid pathways. Particularly, the citrate-malate shuttle 
+        supplies cytosolic acetyl CoA and plastidic glycolysis and malic enzyme support 
+        the formation of plastidic pyruvate. A model is proposed on how glandular trichomes 
+        achieve high metabolic productivity.
+biocViews: MassSpectrometryData, RepositoryData
+License: CC0
+URL: http://www.ebi.ac.uk/metabolights/MTBLS297,
+        https://github.com/sneumann/mtbls297
+NeedsCompilation: no
+

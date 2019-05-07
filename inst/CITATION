@@ -1,0 +1,18 @@
+citHeader("If you use mtbls297, please cite")
+
+citEntry(entry="article",  
+	author = "Gerd U Balcke and Stefan Bennewitz and Nick Bergau and Benedikt Athmer and Anja Henning and Petra Majovsky and José M Jiménez-Gómez and Wolfgange Hoehenwarter and Alain Tissier",
+	title = "Multi-Omics of Tomato Glandular Trichomes Reveals Distinct Features of Central Carbon Metabolism Supporting High Productivity of Specialized Metabolites",
+	doi = "10.1105/tpc.17.00060",
+	number = "5",
+	volume = "29",
+	month = "May",
+	year = "2017",
+	journal = "The Plant cell",
+	pages = "960—983",
+	URL = "https://doi.org/10.1105/tpc.17.00060",
+    textVersion = paste("Multi-Omics of Tomato Glandular Trichomes Reveals Distinct Features of Central Carbon Metabolism Supporting High Productivity of Specialized Metabolites",
+    		        "Balcke, Gerd U and Bennewitz, Stefan and Bergau, Nick and Athmer, Benedikt and Henning, Anja and Majovsky, Petra and Jiménez-Gómez, José M and Hoehenwarter, Wolfgang and Tissier, Alain",
+		        "The Plant Cell May 2017, 29 (5) 960-983; DOI: 10.1105/tpc.17.00060")
+)
+
